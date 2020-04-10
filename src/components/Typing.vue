@@ -42,6 +42,7 @@
         justify-content: center;
         flex-direction: column;
         font-family: 'Fira Code', monospace;
+        text-align: center;
 
         .help {
             margin: 20px 0 0;
