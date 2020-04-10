@@ -1,24 +1,6 @@
-# typing-v3
+# Typing Master for Developers
 
-## Project setup
-```
-yarn install
-```
+![alt text](https://github.com/mehedimi/typing-v3/blob/master/src/images/preview.gif?raw=true "Screenshot")
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### [Demo](https://typing-v3.netlify.com/)
+By [Mehedi Hasan](https://fb.com/mehedimi)
