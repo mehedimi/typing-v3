@@ -18,5 +18,4 @@ export default [
     '1st rule of programming - if it works don\'t touch it',
     'cout << \'keyboard not found! press any key to continue\';',
     'import crocodile from \'the-canal\'',
-    '',
 ]
